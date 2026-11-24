@@ -1,1 +1,3 @@
-{"gateway": "https://darpayer.onrender.com"}
+{
+  "gateway": "https://darpayer-production.up.railway.app"
+}
